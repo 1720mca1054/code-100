@@ -12,4 +12,4 @@ public class Array
 		}
 		System.out.println("Total= "+sum);
 	}
-}
+}}
