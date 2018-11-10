@@ -1,5 +1,5 @@
 
-import java.awt.*;
+ import java.awt.*;
 import java.applet.*;
 public class x1 extends Applet
 {
