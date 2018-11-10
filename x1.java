@@ -5,6 +5,7 @@ public class x1 extends Applet
 {
 public void init()
 {
+
 Label l1 = new Label("     GOOGLE ",Label.CENTER);
 l1.setBounds(130,1,150,20);
 l1.setVisible(true);
