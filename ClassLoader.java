@@ -3,7 +3,7 @@ public class ClassLoader
     public static void main(String[] args)  
     {  
         // Let's print the classloader name of current class.   
-        //Application/System classloader will load this class  
+        //Application/System classloader will load this class.
         Class c=ClassLoader.class;  
         System.out.println(c.getClassLoader());    
         //If we print the classloader name of String, it will print null because it is an  
