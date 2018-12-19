@@ -8,4 +8,5 @@ public class VariableTest{
         System.out.println("Size of long is :"+ Long.SIZE+ " bits");
     }
     
+    
 }
