@@ -6,6 +6,6 @@ public class VariableTest{
         System.out.println("Size of double is :"+ Double.SIZE+ " bits");
         System.out.println("Size of char is :"+ Character.SIZE+ " bits");
         System.out.println("Size of long is :"+ Long.SIZE+ " bits");
-    }
+    } 
         
 }
